@@ -1,4 +1,4 @@
-# Bulk_Avif_Using_Avifdec
+# Bulk_Avif_Using_Avifenc
 bulk avif image conversion using avifdec
 
 place avifdec.exe file in the same folder as of bulkavif.py
